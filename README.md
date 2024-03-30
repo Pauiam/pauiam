@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## WHAT AM I DOING
+### WHAT AM I DOING
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning with [Github Skills](https://skills.github.com/)
