@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+### WHAT AM I DOING
+
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning with [Github Skills](https://skills.github.com/)
+- 💬 Ask me about GitHub
+
 
 <!--
 **Pauiam/pauiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
